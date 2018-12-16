@@ -65,7 +65,7 @@ This project contains a user-friendly and powerful php-based password manager wi
 
 - Now open the url https://website or installed directory https://website/dir/ and if you see installation, then you are good to contiune.
     
-- Follow the installation script and you can use the software.
+- Follow the installation script and you can use the script.
 
 ## License
 
